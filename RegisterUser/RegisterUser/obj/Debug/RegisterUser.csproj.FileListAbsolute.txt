@@ -1,0 +1,49 @@
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\bin\Debug\Database1.mdf
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\bin\Debug\Database1_log.ldf
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe.config
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\bin\Debug\RegisterUser.pdb
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csprojAssemblyReference.cache
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Home.resources
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.LogIn.resources
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Properties.Resources.resources
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Register.resources
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.GenerateResource.cache
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.CoreCompileInputs.cache
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.exe
+C:\Users\TSHEPO EGNITIUS\Documents\RegisterUser\RegisterUser\obj\Debug\RegisterUser.pdb
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\bin\Debug\Database1.mdf
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\bin\Debug\Database1_log.ldf
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe.config
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.pdb
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csprojAssemblyReference.cache
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Home.resources
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.LogIn.resources
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Properties.Resources.resources
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Register.resources
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.GenerateResource.cache
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.exe
+C:\Users\Tshepo\Desktop\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.pdb
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.AssemblyReference.cache
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Admin.resources
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Home.resources
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.LogIn.resources
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Properties.Resources.resources
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.Register.resources
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.GenerateResource.cache
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.CoreCompileInputs.cache
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\Database1.mdf
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\Database1_log.ldf
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe.config
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.exe
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\RegisterUser.pdb
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\PdfSharp.dll
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\PdfSharp.xml
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.csproj.CopyComplete
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.exe
+C:\Users\Lazarus\Downloads\RegisterUser\RegisterUser\RegisterUser\RegisterUser\obj\Debug\RegisterUser.pdb
